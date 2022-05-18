@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Ethanol
 
-You can use the [editor on GitHub](https://github.com/gjacobs314/ethanolsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Privacy policy and support or contact
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Privacy policy
 
-### Markdown
+We are committed to maintaining the accuracy, confidentiality, and security of your personally identifiable information ("personal information"). As part of this commitment, our privacy policy governs our actions as they relate to the collection, use and disclosure of Personal Information.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Introduction - we are responsible for maintaining and protecting the personal information that may be under our control.
 
-```markdown
-Syntax highlighted code block
+2. Identifying Purposes - we do not collect, use and or disclose any personal information.
 
-# Header 1
-## Header 2
-### Header 3
+3. Consent - knowledge and consent are required for the collection, use or disclosure of Personal Information except where required or permitted by law. We will not require you to consent to the collection, use, or disclosure of information as a condition to the supply of a product or service.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gjacobs314/ethanolsite/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+4. Handling Customer Complaints and Suggestions - you may direct any questions or enquiries with respect to our privacy policy or our practices by contacting us via the support section below
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with the app? Contact support by emailing [gjacobs085@gmail.com](mailto:gjacobs085@gmail.com) and we’ll help you sort it out.
